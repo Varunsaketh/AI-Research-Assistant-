@@ -1,7 +1,12 @@
 [project]
-name = "crewai"
+name = "research-ai-agent"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "crewai>=1.14.6",
+    "crewai-tools>=1.14.6",
+    "dotenv>=0.9.9",
+    "streamlit>=1.58.0",
+]
