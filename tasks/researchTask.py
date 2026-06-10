@@ -14,10 +14,9 @@ conduct comprehensive search on the web to gather accurate and relevant informat
         
 provide the summary with
     1.Key findings
-    2.Sources used
-    3.importanat statistics and data
-    4.recent develpopments related to the topic
-    5.expert opinions and analysis
+    2.important statistics and data
+    3.recent developments related to the topic
+    4. keep it simple and short
 
                                 """),
     expected_output = "A structured summary of the research findings with key insights, sources, statistics, recent developments, and expert opinions.",

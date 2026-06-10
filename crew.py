@@ -1,6 +1,6 @@
 from crewai import Crew
 from tasks.researchTask import research_task
-from agents.analaysisAgent import analysis_agent
+from agents.analysisAgent import analysis_agent
 from agents.writerAgent import writer_agent
 from agents.searchAgent import research_agent
 from tasks.analysisTask import analysis_task
@@ -17,4 +17,4 @@ research_crew = Crew(
              ],
     verbose = True
 )
-print("⚡ZEUS⚡ the research crew has been assembled)")
+print("⚡ZEUS⚡ the research crew has been assembled")
