@@ -6,4 +6,10 @@ Agent which analizes from the scrapped data
 ### 3. Writer Agent:
 Agent which writes from the analyzed data 
 
+
+general CREW AI Archetecture
+1. Need to create Ai agents 
+2. Need to create Tasks
+3. Create a final crew and join tasks , ai agnets
+   
 better to use 3 different LLM for three duifferent tasks to reduce token count 
